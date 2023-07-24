@@ -1,5 +1,6 @@
 # AngularCourse
-This course https://www.udemy.com/course/angular-fernando-herrera/learn/lecture/24358930#overview
+
+This course [AngularCourse]https://www.udemy.com/course/angular-fernando-herrera/learn/lecture/24358930#overview
 Section 7 - Class 85
 
 # AngularGifsApp
