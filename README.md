@@ -1,7 +1,7 @@
 # AngularCourse
 
-This course [AngularCourse]https://www.udemy.com/course/angular-fernando-herrera/learn/lecture/24358930#overview
-Section 7 - Class 89
+This course [AngularCourse]https://www.udemy.com/course/angular-fernando-herrera/learn/lecture/23715184#overview
+Section 7 - Class 104
 
 # AngularGifsApp
 
